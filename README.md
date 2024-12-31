@@ -14,6 +14,8 @@ The branches are structured to correspond to the videos in the course. The namin
 
 The `main` branch contains the starting code for the course and the `final` branch contains the completed code.
 
+`main.orig` added, containing the base original data of main, in case of next merging or changes applied.
+
 ### Instructor
 
 Josh Samuelson 
